@@ -1,0 +1,27 @@
+{
+  "name": "buttons",
+  "version": "1.0.0",
+  "description": "A combination of CSS buttons",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass style.scss:style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatmittal61/buttons.git"
+  },
+  "keywords": [
+    "CSS",
+    "buttons",
+    "sass"
+  ],
+  "author": "Akshat Mittal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshatmittal61/buttons/issues"
+  },
+  "homepage": "https://github.com/akshatmittal61/buttons#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}

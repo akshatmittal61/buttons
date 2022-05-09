@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: "sans-serif";
+}
+body .container {
+  margin: 2rem;
+  padding: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
